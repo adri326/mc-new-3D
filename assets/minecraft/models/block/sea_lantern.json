@@ -1,0 +1,6 @@
+{
+  "parent": "block/lamp",
+  "textures": {
+    "side": "blocks/sea_lantern"
+  }
+}
