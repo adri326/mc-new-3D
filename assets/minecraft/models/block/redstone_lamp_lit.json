@@ -1,0 +1,6 @@
+{
+  "parent": "block/lamp",
+  "textures": {
+    "side": "blocks/redstone_lamp_on"
+  }
+}
